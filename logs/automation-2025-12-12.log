@@ -1,0 +1,47 @@
+08:48:27.229 [main] INFO  testCases.TC001_AccountresgistrationTest - Clicked on Register Link.. 
+08:48:27.921 [main] INFO  testCases.TC001_AccountresgistrationTest - Providing customer details...
+08:48:31.215 [main] INFO  testCases.TC001_AccountresgistrationTest - Validating expected message..
+08:48:31.332 [main] INFO  testCases.TC001_AccountresgistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+08:48:41.778 [main] INFO  testCases.TC001_AccountresgistrationTest - ***** Starting TC001_AccountRegistrationTest  ****
+08:48:42.136 [main] INFO  testCases.TC001_AccountresgistrationTest - Clicked on MyAccount Link.. 
+08:48:42.297 [main] INFO  testCases.TC001_AccountresgistrationTest - Clicked on Register Link.. 
+08:48:42.761 [main] INFO  testCases.TC001_AccountresgistrationTest - Providing customer details...
+08:48:46.808 [main] INFO  testCases.TC001_AccountresgistrationTest - Validating expected message..
+08:48:46.993 [main] INFO  testCases.TC001_AccountresgistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+08:49:15.007 [main] INFO  testCases.TC001_AccountresgistrationTest - ***** Starting TC001_AccountRegistrationTest  ****
+08:49:15.684 [main] INFO  testCases.TC001_AccountresgistrationTest - Clicked on MyAccount Link.. 
+08:49:16.674 [main] INFO  testCases.TC001_AccountresgistrationTest - Clicked on Register Link.. 
+08:49:17.060 [main] INFO  testCases.TC001_AccountresgistrationTest - Providing customer details...
+08:49:17.576 [main] ERROR testCases.TC001_AccountresgistrationTest - Test failed: Unable to find element with locator By.xpath: //input[@id='input-lastname']
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: driver.version: RemoteWebDriver
+08:54:43.565 [main] INFO  testCases.TC001_AccountresgistrationTest - ***** Starting TC001_AccountRegistrationTest  ****
+08:54:43.922 [main] INFO  testCases.TC001_AccountresgistrationTest - Clicked on MyAccount Link.. 
+08:54:44.101 [main] INFO  testCases.TC001_AccountresgistrationTest - Clicked on Register Link.. 
+08:54:44.557 [main] INFO  testCases.TC001_AccountresgistrationTest - Providing customer details...
+08:54:49.975 [main] INFO  testCases.TC001_AccountresgistrationTest - Validating expected message..
+08:54:50.059 [main] INFO  testCases.TC001_AccountresgistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+08:54:53.936 [main] INFO  testCases.TC001_AccountresgistrationTest - ***** Starting TC001_AccountRegistrationTest  ****
+08:54:54.253 [main] INFO  testCases.TC001_AccountresgistrationTest - Clicked on MyAccount Link.. 
+08:54:54.449 [main] INFO  testCases.TC001_AccountresgistrationTest - Clicked on Register Link.. 
+08:54:55.053 [main] INFO  testCases.TC001_AccountresgistrationTest - Providing customer details...
+08:54:58.164 [main] INFO  testCases.TC001_AccountresgistrationTest - Validating expected message..
+08:54:58.297 [main] INFO  testCases.TC001_AccountresgistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+08:55:09.617 [main] INFO  testCases.TC001_AccountresgistrationTest - ***** Starting TC001_AccountRegistrationTest  ****
+08:55:09.916 [main] INFO  testCases.TC001_AccountresgistrationTest - Clicked on MyAccount Link.. 
+08:55:10.069 [main] INFO  testCases.TC001_AccountresgistrationTest - Clicked on Register Link.. 
+08:55:10.825 [main] INFO  testCases.TC001_AccountresgistrationTest - Providing customer details...
+08:55:13.578 [main] INFO  testCases.TC001_AccountresgistrationTest - Validating expected message..
+08:55:13.638 [main] INFO  testCases.TC001_AccountresgistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+12:23:58.676 [main] INFO  testCases.TC001_AccountresgistrationTest - ***** Starting TC001_AccountRegistrationTest  ****
+12:24:08.857 [main] ERROR testCases.TC001_AccountresgistrationTest - Test failed: no such element: Unable to locate element: {"method":"xpath","selector":"//span[normalize-space()='My Account']"}
+  (Session info: chrome=143.0.7499.42)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a3a9a493edb899253cf10d558c72fbc0, findElement {using=xpath, value=//span[normalize-space()='My Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.42, chrome: {chromedriverVersion: 143.0.7499.42 (24bdc8c48a0c..., userDataDir: C:\Users\PREMKU~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50910}, goog:processID: 30780, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50910/devtoo..., se:cdpVersion: 143.0.7499.42, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a3a9a493edb899253cf10d558c72fbc0
